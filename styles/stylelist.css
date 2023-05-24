@@ -1,0 +1,218 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Mulish", sans-serif;
+    background-color: black;
+  }
+  
+  header {
+    padding: 25px;
+  }
+  
+  .header-wrapper {
+    width: 85%;
+    margin: 0 auto;
+  }
+  
+  .header-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .header-wrapper img {
+    width: 250px;
+  }
+  
+  header nav a {
+    margin-left: 40px;
+    color: whitesmoke;
+    opacity: 0.5;
+    text-decoration: none;
+  }
+  
+  header nav a:first-child {
+    margin-left: 0;
+  }
+  
+  .active-link {
+    color:peru;
+    opacity: 1;
+    font-weight: 700;
+  }
+
+  .job-list h2{
+    color: whitesmoke;
+    font-size: large;
+  }
+ 
+  .job-list ul{
+    color: whitesmoke;
+  }
+
+  .logo img{
+    width: 200px;
+  }
+
+  .first-job{
+    float: left;
+    width: 50%;
+  }
+
+  .second-job{
+    float: right;
+    width: 50%;
+  }
+
+  .third-job{
+    float: left;
+    width: 50%;
+  }
+
+ .fourth-job{
+    float: right;
+    width: 50%;
+ }
+
+ .fifth-job{
+    float: left;
+    width: 50%;
+ }
+
+ .sixth-job{
+    float: right;
+    width: 50%;
+ }
+
+ .seventh-job{
+    float: left;
+    width: 50%;
+ }
+
+ .eighth-job{
+    float: right;
+    width: 50%;
+ }
+
+ .nineth-job{
+    float: left;
+    width: 50%;
+ }
+
+ .tenth-job{
+    float: right;
+    width: 50%;
+ }
+
+ .eleventh-job{
+    float: left;
+    width: 50%;
+ }
+
+ .twelveth-job{
+    float: right;
+    width: 50%;
+ }
+
+ .thirteenth-job{
+    float: left;
+    width: 50%;
+ }
+
+ .fourteenth-job{
+    float: right;
+    width: 50%;
+ }
+
+ .fifteenth-job{
+    float: left;
+    width: 50%;
+ }
+
+ .sixteenth-job{
+    float: right;
+    width: 50%;
+ }
+
+ .seventeenth-job{
+    float: left;
+    width: 50%;
+ }
+
+ .eighteenth-job{
+    float: right;
+    width: 50%;
+ }
+
+ .nineteenth-job{
+    float: left;
+    width: 50%;
+ }
+
+ .twentyth-job{
+    float: right;
+    width: 50%;
+ }
+
+ .twentyfirst-job{
+    float: left;
+    width: 50%;
+ }
+
+ .twentysecond-job{
+    float: right;
+    width: 50%; 
+ }
+
+ .twentythird-job{
+    float: left;
+    width: 50%;
+ }
+
+ .twentyfourth-job{
+    float: right;
+    width: 50%; 
+ }
+
+ .twentyfiveth-job{
+    float: left;
+    width: 50%;
+ }
+
+ .twentysixth-job{
+    float: right;
+    width: 50%; 
+ }
+
+ .twentyseventh-job{
+    float: left;
+    width: 50%; 
+ }
+
+ .twentyeighth-job{
+    float: right;
+    width: 50%; 
+ }
+
+ .twentynineth-job{
+    float: left;
+    width: 50%; 
+ }
+
+ .thirtyth-job{
+    float: right;
+    width: 50%; 
+ }
+
+ .job-list button{
+    background-color: tan;
+    border-radius: 10px;
+  border-color: tan;
+ }
+
+ .job-list button a {
+text-decoration: none;
+color: whitesmoke;
+ }
+
+ 

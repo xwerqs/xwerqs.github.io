@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital@1&display=swap");
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Mulish", sans-serif;
+    background-color: black;
+  }
+  
+  header {
+    padding: 25px;
+  }
+  
+  .header-wrapper {
+    width: 85%;
+    margin: 0 auto;
+  }
+  
+  .header-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .header-wrapper img {
+    width: 250px;
+  }
+  
+  .logo img{
+    width: 200px;
+  }
+
+  header nav a {
+    margin-left: 40px;
+    color: whitesmoke;
+    opacity: 0.5;
+    text-decoration: none;
+  }
+  
+  header nav a:first-child {
+    margin-left: 0;
+  }
+  
+  .active-link {
+    color:peru;
+    opacity: 1;
+    font-weight: 700;
+  }
+
+  .words p b{
+    color: tan;
+    width: 1.5rem;
+  }
+
+  .container{
+border-radius: 8px;
+border-width:medium;
+border-style:solid;
+border-color: white;
+background-color: tan;
+padding:4px;
+  }
+
+  .words p{
+    text-align: center;
+  }
+
+  .buttons-resume button{
+    align-items: center;
+    color: whitesmoke;
+    border-width: medium;
+    border-color: tan;
+    border-radius: 8px;
+    width: 100px
+  }
+
+  .col-25{
+    text-align: center;
+  }
+
+  .col-75{
+    align-items: center;
+    text-align: center;
+  }
